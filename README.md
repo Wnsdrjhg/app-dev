@@ -1,6 +1,5 @@
 # app-dev
 My first repository
-Here’s an example of how to use various Markdown elements to describe *Harry Potter*:
 
 ---
 
